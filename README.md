@@ -1,5 +1,9 @@
 # MeetupEvents
 
+Online verzija zbog lakšeg pregleda -> http://meetupevents.epizy.com
+
+Zadatak:
+
 Zahtevi Potrebno je aplikaciju napraviti u JavaScript programskom jeziku. Možete koristiti framework koji želite, ili uraditi u Vanilla JavaScript-u.  
 Funkcionalnosti Potrebno je implementirati sledeće funkcionalnosti  • Dohvatiti gradove za Srbiju (country: „rs“) i prikazati ih u listi.  • Klikom na grad, prikazati događaje koji se održavaju u tom gradu (naslov događaja, opis…)  Vizuelni dizajn S obzirom da tražimo Frontend programera potrebno je ulepšati aplikaciju. Ne tražimo perfektan dizajn već korišćenje CSS. 
   
