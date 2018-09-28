@@ -124,12 +124,17 @@ header {
   box-shadow: 0 0 5px 1px whitesmoke;
   transition: top 500ms ease-in-out;
   z-index: 2;
+  text-align: center;
 
   a {
     color: $text_color_light;
     &:hover {
       color: black;
     }
+  }
+  img {
+    width: 250px;
+    height: auto;
   }
 }
 

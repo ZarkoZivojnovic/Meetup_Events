@@ -98,11 +98,15 @@ header {
   padding: 30px 20px;
   box-shadow: 0 0 5px 1px whitesmoke;
   transition: top 500ms ease-in-out;
-  z-index: 2; }
+  z-index: 2;
+  text-align: center; }
   #modal a {
     color: whitesmoke; }
     #modal a:hover {
       color: black; }
+  #modal img {
+    width: 250px;
+    height: auto; }
 
 #hide_modal {
   position: absolute;
